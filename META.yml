@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name: DateTime-Calendar-Mayan
-version: 0.04
+version: 0.05
 license: perl
 distribution_type: module
 requires:
@@ -12,5 +12,5 @@ conflicts: {}
 provides:
   DateTime::Calendar::Mayan:
     file: lib/DateTime/Calendar/Mayan.pm
-    version: 0.04
+    version: 0.05
 generated_by: Module::Build version 0.18
